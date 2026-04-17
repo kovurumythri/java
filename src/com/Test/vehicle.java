@@ -138,7 +138,7 @@ public class Example2{
 				  break;
 			  }
 				  
-				  default:
+				  default:System.out.println("Hello");
 					  break;
 			  
 		  }
